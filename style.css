@@ -1,0 +1,59 @@
+.backgroun-main{
+    background-color:rgb(60, 216, 216);
+}
+.container{
+    background-color: aliceblue;
+    width: 450px;
+    height: 400px;
+    padding: 10px 30px 30px 30px;
+    border-radius: 15px;
+    margin: 200px 400px;
+    
+}
+.title-main{
+    float: left;
+    
+}
+.button-main{
+    width: 100px;
+    border: 0.5px solid rgb(200, 200, 200);
+    text-align: center;
+    padding: 10px;
+    float: right;
+}
+section{
+    margin-bottom: 2em;
+}
+.cont{  
+    width: 100%px;
+    height: 90px;
+    border: 0.5px solid rgb(200, 200, 200);
+    
+    margin-bottom: 1em;
+    clear: both;
+    border-radius: 10px;        
+}
+.color1{
+    
+    width: 0.3%;
+    height: 85px;
+    float: left;
+    
+    border-radius: 16px 0 0 16px;
+    margin-top: 1.5px;       
+}
+.title-sec{
+    margin-left: 25px;
+}
+.color2{
+    background-color: rgb(191, 46, 46);
+    border: 1px solid rgb(191, 46, 46);
+}
+.color3{
+    background-color: pink;
+    border: 1px solid pink;
+}
+.color4{
+    background-color: rgb(213, 213, 2);
+    border: 1px solid rgb(213, 213, 2);
+}
